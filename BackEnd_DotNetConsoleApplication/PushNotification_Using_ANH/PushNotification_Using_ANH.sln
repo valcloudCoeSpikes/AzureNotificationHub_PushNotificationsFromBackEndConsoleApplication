@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushNotification_Using_ANH", "PushNotification_Using_ANH\PushNotification_Using_ANH.csproj", "{073CE796-BF52-4EE1-956C-76C884FD0CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushNotifications_ToAppUsers", "PushNotifications_ToAppUsers\PushNotifications_ToAppUsers.csproj", "{DA95C4F8-4082-412D-8870-DD8C9359D8CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{073CE796-BF52-4EE1-956C-76C884FD0CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073CE796-BF52-4EE1-956C-76C884FD0CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073CE796-BF52-4EE1-956C-76C884FD0CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073CE796-BF52-4EE1-956C-76C884FD0CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA95C4F8-4082-412D-8870-DD8C9359D8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA95C4F8-4082-412D-8870-DD8C9359D8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA95C4F8-4082-412D-8870-DD8C9359D8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA95C4F8-4082-412D-8870-DD8C9359D8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7ED75B2-C354-427D-9C48-6781C7A12354}
+	EndGlobalSection
+EndGlobal
